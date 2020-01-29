@@ -1,5 +1,9 @@
 ﻿  Lab02Main.cpp
 c:\users\jmmd7\source\repos\project1\project1\lab02main.cpp(8): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jmmd7\source\repos\project1\project1\lab02main.cpp(9): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jmmd7\source\repos\project1\project1\lab02main.cpp(10): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jmmd7\source\repos\project1\project1\lab02main.cpp(11): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\jmmd7\source\repos\project1\project1\lab02main.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
   main.cpp
   Generating Code...
   Project1.vcxproj -> c:\Users\jmmd7\source\repos\Project1\Debug\Project1.exe
