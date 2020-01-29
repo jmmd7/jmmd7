@@ -30,6 +30,6 @@ int main() {
 	cout << "Attendance : " << attendance << endl;
 	cout << "--------------------------" << endl;
 	cout << "Total score: " << total << endl;
-
+	//
 	return 0;
 }
